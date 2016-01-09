@@ -145,7 +145,7 @@ return [
 		'App\Providers\EventServiceProvider',
 		'App\Providers\RouteServiceProvider',
 		'Mews\Captcha\CaptchaServiceProvider',
-
+		'Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider'
 	],
 
 	/*
